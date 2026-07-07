@@ -53,9 +53,6 @@ Admin Panel
 
 ![Dashboard](dashboard.png)
 
-### Clientes
-
-![Clientes](clientes.png)
 
 ### Licenças
 
@@ -65,11 +62,11 @@ Admin Panel
 
 ### Swagger
 
-![Swagger](swagger-home.png)
+![Swagger](swaggerhome.png)
 
 ### Validação de Licença
 
-![Validação](swagger-validacao.png)
+![Validação](swagger.png)
 
 ## 💡 Objetivo
 
